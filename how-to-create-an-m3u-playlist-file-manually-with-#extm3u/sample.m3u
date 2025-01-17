@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:123, ArtistBigBunny - TitleBigBunny
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:321, ArtistElephants - TitleElephants
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
